@@ -209,7 +209,6 @@
 .u-section-2 .u-group-1 {
   min-height: 1156px;
   width: 346px;
-  height: auto;
   margin: 35px auto 0 0;
 }
 
@@ -383,7 +382,6 @@
 .u-section-2 .u-group-2 {
   min-height: 755px;
   width: 724px;
-  height: auto;
   margin: -1045px 29px 60px auto;
 }
 
@@ -425,16 +423,11 @@
     min-height: 1241px;
   }
 
-  .u-section-2 .u-group-1 {
-    height: auto;
-  }
-
   .u-section-2 .u-group-2 {
     min-height: 758px;
     width: 536px;
     margin-top: -1089px;
     margin-right: 18px;
-    height: auto;
   }
 }
 
