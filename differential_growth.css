@@ -1,5 +1,5 @@
  .u-section-1 {
-  background-image: url("images/diff_growth-16.jpg");
+  background-image: url("images/diff_growth-19.jpg");
   background-position: 50% 50%;
 }
 
@@ -100,6 +100,11 @@
   margin: 30px auto 0;
 }
 
+.u-section-2 .u-btn-1 {
+  background-image: none;
+  padding: 0;
+}
+
 .u-section-2 .u-video-1 {
   width: 740px;
   height: 387px;
@@ -114,7 +119,7 @@
   margin: 30px 30px 60px;
 }
 
-.u-section-2 .u-btn-1 {
+.u-section-2 .u-btn-2 {
   background-image: none;
   padding: 0;
 }
