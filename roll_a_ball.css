@@ -1,17 +1,17 @@
  .u-section-1 {
-  background-image: url("images/roll-a-ball-20.png");
+  background-image: url("images/play_img11.png");
   background-position: 50% 50%;
 }
 
 .u-section-1 .u-sheet-1 {
-  min-height: 667px;
+  min-height: 711px;
 }
 
 .u-section-1 .u-text-1 {
-  width: 551px;
   font-size: 2.25rem;
   font-weight: 700;
-  margin: 263px auto 0;
+  width: 551px;
+  margin: 356px auto 0;
 }
 
 .u-section-1 .u-text-2 {
@@ -78,7 +78,7 @@
     margin-bottom: 30px;
   }
 }.u-section-2 .u-sheet-1 {
-  min-height: 722px;
+  min-height: 100vh;
 }
 
 .u-section-2 .u-text-1 {
@@ -100,57 +100,46 @@
   margin: 30px auto 0;
 }
 
+.u-section-2 .u-btn-1 {
+  background-image: none;
+  padding: 0;
+}
+
 .u-section-2 .u-video-1 {
-  width: 740px;
-  height: 387px;
-  margin: 30px auto 60px;
+  height: 500px;
+  margin-top: 60px;
+  margin-bottom: 60px;
 }
 
 .u-section-2 .embed-responsive-1 {
   position: absolute;
+  width: 178%;
+  left: -39%;
+  height: 178%;
+  top: -39%;
 }
 
 @media (max-width: 991px) {
-  .u-section-2 .u-sheet-1 {
-    min-height: 712px;
-  }
-
   .u-section-2 .u-text-1 {
     width: 720px;
   }
 
   .u-section-2 .u-text-2 {
-    width: 720px;
-  }
-
-  .u-section-2 .u-video-1 {
     width: 720px;
   }
 }
 
 @media (max-width: 767px) {
-  .u-section-2 .u-sheet-1 {
-    min-height: 618px;
-  }
-
   .u-section-2 .u-text-1 {
     width: 540px;
   }
 
   .u-section-2 .u-text-2 {
-    width: 540px;
-  }
-
-  .u-section-2 .u-video-1 {
     width: 540px;
   }
 }
 
 @media (max-width: 575px) {
-  .u-section-2 .u-sheet-1 {
-    min-height: 513px;
-  }
-
   .u-section-2 .u-text-1 {
     width: 340px;
   }
@@ -160,6 +149,13 @@
   }
 
   .u-section-2 .u-video-1 {
-    width: 340px;
+    height: 422px;
+  }
+
+  .u-section-2 .embed-responsive-1 {
+    width: 261%;
+    left: -81%;
+    height: 100%;
+    top: 0%;
   }
 }
