@@ -1,0 +1,159 @@
+ .u-section-1 {
+  background-image: none;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 166px;
+}
+
+.u-section-1 .u-text-1 {
+  margin: 57px auto;
+} .u-section-2 {
+  min-height: 860px;
+}
+
+.u-section-2 .u-layout-wrap-1 {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.u-section-2 .u-image-1 {
+  background-image: url("images/self.jpg");
+  min-height: 860px;
+  background-position: 50% 50%;
+}
+
+.u-section-2 .u-container-layout-1 {
+  padding: 0;
+}
+
+.u-section-2 .u-video-1 {
+  min-height: 490px;
+}
+
+.u-section-2 .u-container-layout-2 {
+  padding: 0;
+}
+
+.u-section-2 .embed-responsive-1 {
+  position: absolute;
+}
+
+.u-section-2 .u-video-2 {
+  min-height: 370px;
+}
+
+.u-section-2 .u-container-layout-3 {
+  padding: 30px;
+}
+
+.u-section-2 .embed-responsive-2 {
+  position: absolute;
+}
+
+.u-section-2 .u-image-2 {
+  background-image: url("images/Nuphy_Air60.jpg");
+  min-height: 370px;
+  background-position: 50% 50%;
+}
+
+.u-section-2 .u-container-layout-4 {
+  padding: 30px;
+}
+
+.u-section-2 .u-image-3 {
+  background-image: url("images/shoutao.JPG");
+  min-height: 370px;
+  background-position: 50% 50%;
+}
+
+.u-section-2 .u-container-layout-5 {
+  padding: 7px 13px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-layout-wrap-1 {
+    position: relative;
+  }
+
+  .u-section-2 .u-image-1 {
+    min-height: 709px;
+  }
+
+  .u-section-2 .u-image-2 {
+    min-height: 305px;
+  }
+
+  .u-section-2 .u-image-3 {
+    min-height: 305px;
+  }
+}
+
+@media (max-width: 991px) {
+   .u-section-2 {
+    min-height: 1946px;
+  }
+
+  .u-section-2 .u-image-1 {
+    min-height: 1086px;
+  }
+
+  .u-section-2 .u-image-2 {
+    min-height: 467px;
+  }
+
+  .u-section-2 .u-image-3 {
+    min-height: 467px;
+  }
+}
+
+@media (max-width: 767px) {
+   .u-section-2 {
+    min-height: 2328px;
+  }
+
+  .u-section-2 .u-image-1 {
+    min-height: 815px;
+  }
+
+  .u-section-2 .u-container-layout-3 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-2 .u-image-2 {
+    min-height: 377px;
+  }
+
+  .u-section-2 .u-container-layout-4 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-2 .u-image-3 {
+    min-height: 435px;
+  }
+
+  .u-section-2 .u-container-layout-5 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+   .u-section-2 {
+    min-height: 1784px;
+  }
+
+  .u-section-2 .u-image-1 {
+    min-height: 513px;
+  }
+
+  .u-section-2 .u-image-2 {
+    min-height: 237px;
+  }
+
+  .u-section-2 .u-image-3 {
+    min-height: 274px;
+  }
+}
