@@ -36297,6 +36297,10 @@ a.u-link.u-text-hover-grey-90:hover {
         
         
         
+        
+        
+        
+        
         --theme-sheet-width-xl: 1140px;
         --theme-sheet-width-lg: 940px;
         --theme-sheet-width-md: 720px;
@@ -36400,6 +36404,10 @@ a.u-link.u-text-hover-grey-90:hover {
         margin-top: 20px;
         margin-bottom: 20px;
         font-family: Poppins;
+        font-size: 1rem;
+        line-height: 1.6;
+        list-icon-spacing: 0.3;
+        list-icon-size: 0.8;
         }
         .u-btn
         {
@@ -36515,6 +36523,34 @@ a.u-link.u-text-hover-grey-90:hover {
         .u-xs h3
         {
         font-size: 1.5rem;
+        }
+        .u-lg p:not(.u-text-variant)
+        {
+        font-size: 1.125rem;
+        line-height: 1;
+        list-icon-spacing: 0.3;
+        list-icon-size: 0.8;
+        }
+        .u-md p:not(.u-text-variant)
+        {
+        font-size: 1.125rem;
+        line-height: 1;
+        list-icon-spacing: 0.3;
+        list-icon-size: 0.8;
+        }
+        .u-sm p:not(.u-text-variant)
+        {
+        font-size: 1.125rem;
+        line-height: 1;
+        list-icon-spacing: 0.3;
+        list-icon-size: 0.8;
+        }
+        .u-xs p:not(.u-text-variant)
+        {
+        font-size: 1.125rem;
+        line-height: 1;
+        list-icon-spacing: 0.3;
+        list-icon-size: 0.8;
         }
         /*end-responsive rules*/
         /** cms-rules **/
