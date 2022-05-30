@@ -285,6 +285,7 @@
 .u-section-2 .u-btn-3 {
   font-size: 1.125rem;
   letter-spacing: 1px;
+  text-decoration: underline !important;
   margin: 12px auto 0 3px;
   padding: 0;
 }
@@ -306,11 +307,13 @@
 
 .u-section-2 .u-btn-4 {
   background-image: none;
+  text-decoration: underline !important;
   padding: 0;
 }
 
 .u-section-2 .u-btn-5 {
   background-image: none;
+  text-decoration: underline !important;
   padding: 0;
 }
 
@@ -331,6 +334,7 @@
 
 .u-section-2 .u-btn-6 {
   background-image: none;
+  text-decoration: underline !important;
   padding: 0;
 }
 
