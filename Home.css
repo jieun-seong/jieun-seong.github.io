@@ -386,7 +386,7 @@
 .u-section-2 .u-group-2 {
   min-height: 755px;
   width: 724px;
-  margin: -1045px 29px 290px auto;
+  margin: -1063px 29px 307px auto;
 }
 
 .u-section-2 .u-container-layout-2 {
@@ -396,14 +396,14 @@
 
 .u-section-2 .u-text-18 {
   font-weight: 700;
-  margin: 0 auto 0 0;
+  margin: 0 -6px 0 6px;
 }
 
 .u-section-2 .u-text-19 {
   font-family: Poppins;
   line-height: 2;
   font-size: 1.125rem;
-  margin: 33px 12px 0 0;
+  margin: 35px 6px 0;
 }
 
 .u-section-2 .u-btn-7 {
@@ -414,7 +414,7 @@
   text-transform: uppercase;
   font-weight: 700;
   border-style: none;
-  margin: 121px auto 0;
+  margin: 119px auto 0;
   padding: 14px 64px 15px 62px;
 }
 
@@ -454,6 +454,16 @@
     margin-top: 48px;
     margin-right: auto;
     margin-bottom: 55px;
+  }
+
+  .u-section-2 .u-text-18 {
+    margin-right: 0;
+    margin-left: 0;
+  }
+
+  .u-section-2 .u-text-19 {
+    margin-right: 12px;
+    margin-left: 0;
   }
 }
 
