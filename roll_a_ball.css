@@ -78,7 +78,7 @@
     margin-bottom: 30px;
   }
 }.u-section-2 .u-sheet-1 {
-  min-height: 100vh;
+  min-height: 300px;
 }
 
 .u-section-2 .u-text-1 {
@@ -96,8 +96,7 @@
 
 .u-section-2 .u-text-2 {
   font-size: 1rem;
-  width: 740px;
-  margin: 30px auto 0;
+  margin: 30px 76px 60px;
 }
 
 .u-section-2 .u-btn-1 {
@@ -105,18 +104,12 @@
   padding: 0;
 }
 
-.u-section-2 .u-video-1 {
-  height: 500px;
-  margin-top: 60px;
-  margin-bottom: 60px;
-}
-
-.u-section-2 .embed-responsive-1 {
-  position: absolute;
-  width: 178%;
-  left: -39%;
-  height: 178%;
-  top: -39%;
+@media (max-width: 1199px) {
+  .u-section-2 .u-text-2 {
+    width: 740px;
+    margin-left: 0;
+    margin-right: 0;
+  }
 }
 
 @media (max-width: 991px) {
@@ -147,12 +140,82 @@
   .u-section-2 .u-text-2 {
     width: 340px;
   }
+}.u-section-3 .u-sheet-1 {
+  min-height: 100vh;
+}
 
-  .u-section-2 .u-video-1 {
+.u-section-3 .u-text-1 {
+  font-weight: 700;
+  line-height: 43px;
+  width: 740px;
+  margin: 51px auto 0;
+}
+
+.u-section-3 .u-line-1 {
+  width: 100px;
+  height: 2px;
+  margin: 30px auto 0;
+}
+
+.u-section-3 .u-text-2 {
+  font-size: 1rem;
+  width: 740px;
+  margin: 30px auto 0;
+}
+
+.u-section-3 .u-btn-1 {
+  background-image: none;
+  padding: 0;
+}
+
+.u-section-3 .u-video-1 {
+  height: 500px;
+  margin-top: 60px;
+  margin-bottom: 60px;
+}
+
+.u-section-3 .embed-responsive-1 {
+  position: absolute;
+  width: 178%;
+  left: -39%;
+  height: 178%;
+  top: -39%;
+}
+
+@media (max-width: 991px) {
+  .u-section-3 .u-text-1 {
+    width: 720px;
+  }
+
+  .u-section-3 .u-text-2 {
+    width: 720px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-3 .u-text-1 {
+    width: 540px;
+  }
+
+  .u-section-3 .u-text-2 {
+    width: 540px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-3 .u-text-1 {
+    width: 340px;
+  }
+
+  .u-section-3 .u-text-2 {
+    width: 340px;
+  }
+
+  .u-section-3 .u-video-1 {
     height: 422px;
   }
 
-  .u-section-2 .embed-responsive-1 {
+  .u-section-3 .embed-responsive-1 {
     width: 261%;
     left: -81%;
     height: 100%;
